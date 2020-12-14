@@ -5,7 +5,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Base64;
 
 /*
- *  DataURIのデコードをするクラスです
+ *  DataURIをデコードしてバイト配列にするクラスです
  */
 
 public class DecodeDataURI {
